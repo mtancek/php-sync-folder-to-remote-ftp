@@ -1,4 +1,4 @@
-php-sync-folder-to-remote-ftp
+PHP sync local folder to remote ftp folder
 =============================
 
-PHP script for sync local forder to remote FTP server
+PHP script for sync local folder to remote FTP server
